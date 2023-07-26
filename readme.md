@@ -13,3 +13,7 @@ The model achieved an R-squared of 86.56%, indicating that it was able to explai
 ## Future Work
 
 Future iterations of the project could explore more complex models like polynomial regression or random forests, or using feature engineering to uncover more complex relationships within the data.
+
+## Installing Dependencies
+```bash
+pip install -r requirements.txt
